@@ -6,6 +6,84 @@
 
 %% Créditos ------------------------------------------------------
 \raggedright
+
+\includegraphics[width=15mm]{./imgs/brasaopuc.jpg}
+
+\vspace*{0.5cm}
+
+{\scriptsize{
+\emph{Reitor}\\
+Pe. Josafá Carlos de Siqueira \versal{SJ}\\
+\vspace*{0.3cm}
+\emph{Vice-Reitor}\\
+Pe. Álvaro Mendonça Pimentel \versal{SJ}\\
+\vspace*{0.3cm}
+\emph{Vice-Reitor para Assuntos Acadêmicos}\\
+Prof. José Ricardo Bergmann\\
+\vspace*{0.3cm}
+\emph{Vice-Reitor para Assuntos Administrativos}\\
+Prof. Luiz Carlos Scavarda do Carmo\\
+\vspace*{0.3cm}
+\emph{Vice-Reitor para Assuntos Comunitários}\\
+Prof. Augusto Luiz Duarte Lopes Sampaio\\
+\vspace*{0.3cm}
+\emph{Vice-Reitor para Assuntos de Desenvolvimento}\\
+Prof. Sergio Bruni\\
+\vspace*{0.3cm}
+\emph{Decanos}\\
+Prof. Júlio Cesar Valladão Diniz (\versal{CTCH})\\
+Prof. Luiz Roberto A. Cunha (\versal{CCS})\\
+Prof. Luiz Alencar Reis da Silva Mello (\versal{CTC})\\
+Prof. Hilton Augusto Koch (\versal{CCBS})\\
+}}
+
+\pagebreak\raggedleft
+% Front ---------------------------------------------------------
+% Titulo
+\titulagem
+
+{\Large \autor \par\vspace{1.5ex}}
+\ifdef{\apresentador}{{\small {\apresentador} (\textit{apresentação})} \par}{}
+\ifdef{\prefacio}{{\small {\prefacio} (\textit{prefácio})} \par}{}
+%\ifdef{\organizador}{{\small {\organizador} (\textit{organização})} \par}{}
+\ifdef{\introdutor}{{\small {\introdutor} (\textit{introdução})} \par}{}
+\ifdef{\tradutor}{{\small {\tradutor} (\textit{tradução})}\par}{}\vspace{1.5cm}
+
+{{\footnotesize{} \ifdef{\numeroedicao}{\numeroedicao}{1}ª edição} \par}
+
+%logos
+\vfill
+\ifdef{\logo}{\IfFileExists{\logo}{\hfill\includegraphics[width=3cm]{\logo}\hfill\logoum{}\\ São Paulo\_\the\year}}{\includegraphics[width=5cm]{logos.pdf}\break{} Rio de Janeiro\_\the\year}
+%\includegraphics[width=.4\textwidth,trim=0 0 25 0]{logo.jpg}\\\smallskip
+\par\clearpage\endgroup
+
+\raggedright
+\thispagestyle{empty}
+{\tiny{
+\textbf{\textsc{editora puc-rio}}\\
+Rua Marquês de S. Vicente, 225, casa Editora \versal{PUC}-Rio\\
+22451-900, Rio de Janeiro-\versal{RJ}\\
++55 21 3527 1760/1838\\
+edpucrio@puc-rio.br\\
+www.puc-rio.br/editorapucrio\\
+
+\vspace*{.5cm}
+
+\emph{Conselho gestor}: Augusto Sampaio, Danilo Marcondes, Felipe Gomberg,\\
+Hilton Augusto Koch, José Ricardo Bergmann, Júlio Diniz, Luiz Alencar\\
+Reis da Silva Mello, Luiz Roberto Cunha, Miguel Pereira e Sergio Bruni\\
+
+
+\vspace*{.5cm}
+
+\textbf{\textsc{editora circuito ltda}}\\
+Rua Visconde de Inhaúma, 134, grupo 1215 - Centro\\
+20091-007, Rio de Janeiro-\textsc{rj}, Brasil\\
+Telefone/Fax +55 21 2205 3236\\
+editoracircuito.com.br\\
+
+\vspace*{.5cm}
+
 \linha{copyright}{\copyrightlivro}
 \linhalayout{edição brasileira©}{Circuito \ifdef{\ano}{\ano}{\the\year}}
 \linha{tradução©}{\copyrighttraducao}
@@ -27,8 +105,6 @@
 \linha{capa}{\capa}
 \linha{imagem da capa}{\imagemcapa}
 \linha{imagens de capa e miolo}{\imagens}
-\linha{ISBN}{\ISBN}
-\linha{eISBN}{\eISBN}\smallskip
 %\linhalayout{coleção}{\versal{Ataque Frontal}}
 \linhalayout{conselho consultivo}{\tiny Amilcar Parker,\\
 \qquad \qquad \qquad \qquad \quad \, Cecília Coimbra (\versal{TNM}/\versal{RJ} e \versal{UFF}),\\
@@ -43,46 +119,44 @@
 \qquad \qquad \qquad \qquad \quad \, Salvador Schavelzon (\versal{UNIFESP}),\\
 \qquad \qquad \qquad \qquad \quad \, Thiago Rodrigues (\versal{UFF})}
 
-\medskip
-%\begingroup\tiny
-%\ifdef{\conselho}{\conselho}{\relax}
-%\par\endgroup\bigskip
+\vspace*{.5cm}
 
-\begingroup \tiny
+Todos os direitos reservados. Nenhuma parte desta obra pode ser\\
+reproduzida ou transmitida por qualquer forma e/ou quaisquer meios\\
+(eletrônico ou mecânico, incluindo fotocópia e gravação) ou arquivada em\\
+qualquer sistema ou banco de dados sem permissão escrita das editoras.\\
 
-\textit{Grafia atualizada segundo o Acordo Ortográfico da Língua\\
-Portuguesa de 1990, em vigor no Brasil desde 2009.}\\
+\vspace*{.5cm}
 
+\versal{ISBN} (\versal{PUC}-Rio): XXX-XX-XXXX-XXX-X\\
+\versal{ISBN} (Circuito): XXX-XX-XX-XXXXX-X\\
 
-\vfill\textit{Direitos reservados em l\'íngua\\ portuguesa somente para o Brasil}\\\medskip
+© \versal{EDITORA PUC-RIO}, Rio de Janeiro, Brasil, 2019.\\
+© \versal{EDITORA CIRCUITO}, Rio de Janeiro, Brasil, 2019.\\
 
+}}
+
+%\begingroup \tiny
 %
-\textsc{editora circuito ltda.}\\ 
-Rua Visconde de Inhaúma, 134, grupo 1215 - Centro\\
-20091-007, Rio de Janeiro-\textsc{rj}, Brasil\\
-Telefone/Fax +55 21 2205 3236\\\smallskip
-editoracircuito.com.br\\
-\bigskip
-Foi feito o depósito legal.\\\endgroup
-\pagebreak\raggedleft
-%% Front ---------------------------------------------------------
-% Titulo
-\titulagem
+%\textit{Grafia atualizada segundo o Acordo Ortográfico da Língua\\
+%Portuguesa de 1990, em vigor no Brasil desde 2009.}\\
+%
+%
+%\vfill
+%
+%\textit{Direitos reservados em l\'íngua\\ portuguesa somente para o Brasil}\\\medskip
+%
+%%
+%\textsc{editora circuito ltda.}\\ 
+%Rua Visconde de Inhaúma, 134, grupo 1215 - Centro\\
+%20091-007, Rio de Janeiro-\textsc{rj}, Brasil\\
+%Telefone/Fax +55 21 2205 3236\\\smallskip
+%editoracircuito.com.br\\
+%\bigskip
+%Foi feito o depósito legal.\\\endgroup
 
-{\Large \autor \par\vspace{1.5ex}}
-\ifdef{\apresentador}{{\small {\apresentador} (\textit{apresentação})} \par}{}
-\ifdef{\prefacio}{{\small {\prefacio} (\textit{prefácio})} \par}{}
-%\ifdef{\organizador}{{\small {\organizador} (\textit{organização})} \par}{}
-\ifdef{\introdutor}{{\small {\introdutor} (\textit{introdução})} \par}{}
-\ifdef{\tradutor}{{\small {\tradutor} (\textit{tradução})}\par}{}\vspace{1.5cm}
 
-{{\footnotesize{} \ifdef{\numeroedicao}{\numeroedicao}{1}ª edição} \par}
 
-%logos
-\vfill
-\ifdef{\logo}{\IfFileExists{\logo}{\hfill\includegraphics[width=3cm]{\logo}\hfill\logoum{}\\ São Paulo\_\the\year}}{\includegraphics[width=3cm]{CIRCUITO.jpg}\break{} Rio de Janeiro\_\the\year}
-%\includegraphics[width=.4\textwidth,trim=0 0 25 0]{logo.jpg}\\\smallskip
-\par\clearpage\endgroup
 % Resumo -------------------------------------------------------
 \begingroup \footnotesize \parindent0pt \parskip 5pt \thispagestyle{empty} \vspace*{.25\textheight}\mbox{} \vfill
 \baselineskip=.92\baselineskip
