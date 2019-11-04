@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  29 OCT 2019 16:32
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  4 NOV 2019 13:39
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.233 seconds
+luaotfload | main : initialization completed in 0.234 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1715,10 +1715,9 @@ File: logos.pdf Graphic file (type pdf)
 Package luatex.def Info: logos.pdf  used on input line 78. on input line 78.
 Package luatex.def Info: Requested size: 142.26378pt x 50.65254pt on input line 
 78.
-[3<./logos.pdf>] (./PRETAS.tex(load luc: /home/editorial/.texlive/texmf-var/luat
-ex-cache/generic/fonts/otl/lmmono10-regular.luc) [4
+[3<./logos.pdf>] [4
 
-]
+] (./PRETAS.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1727,7 +1726,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
-)) [5] [6] (./LIVRO.toc
+)(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lm
+mono10-regular.luc)
+[5
+
+]) [6] (./LIVRO.toc
 Underfull \hbox (badness 4378) in paragraph at lines 14--14
 []|\TU/LinuxLibertineO(0)/m/n/10.95 Ba-lan-ços da fossa: o caso da \TU/LinuxLi
 bertineO(0)/m/it/10.95 Re-vista Ci-vi-li-za-ção Bra-si-leira\TU/LinuxLibertin
@@ -2095,8 +2098,8 @@ Here is how much of LuaTeX's memory you used:
    avail lists: 1:3,2:981,3:111,4:53,5:484,6:5629,7:1655,8:86,9:248,10:29,11:692
 
  27238 multiletter control sequences out of 65536+600000
- 121 fonts using 24301855 bytes
- 50i,12n,70p,1356b,473s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 121 fonts using 24301775 bytes
+ 50i,12n,70p,1356b,497s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/share/texmf
 -dist/fonts/opentype/public/libertine/LinLibertine_RB.otf></usr/share/texmf-dist
 /fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist/font
@@ -2105,7 +2108,7 @@ type/public/lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/arkandis/a
 dforn/OrnementsADF.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
 i10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb
 >
-Output written on LIVRO.pdf (254 pages, 1270872 bytes).
+Output written on LIVRO.pdf (254 pages, 1273949 bytes).
 
 PDF statistics: 848 PDF objects out of 1000 (max. 8388607)
  567 compressed objects within 6 object streams
