@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1573163671 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1573163681
+["lualatex"] 1573246348 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1573246358
   "/etc/texmf/tex/generic/config/language.dat" 1501615481 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc" 1556048766 330551 de924542c69363b693a5e39e6b2aba98 ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc" 1556048766 287951 a70546de2b03d7b06e7bdf50996f9bc7 ""
@@ -227,12 +227,12 @@
   "/usr/share/texmf-dist/tex/luatex/luatexbase/luatexbase.sty" 1501615463 10170 b1a2248f43cab899e3fe36f676176865 ""
   "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1501615464 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1509478218 1350509 fd6a6094b87503d3862a692ec974558b ""
-  "INPUTS.aux" 1573163681 6375 b5e186060055dd2da5ee0d550fdf29d9 ""
+  "INPUTS.aux" 1573246357 6375 7cafb8f9e6e44cdf70841dc90c8f355d ""
   "INPUTS.tex" 1568741938 90 f718c76d4a785500f401f76cdba57cd5 ""
-  "LIVRO.aux" 1573163681 515 47609361d0fcb70f332619ce8d7847b5 ""
+  "LIVRO.aux" 1573246357 515 47609361d0fcb70f332619ce8d7847b5 ""
   "LIVRO.tex" 1572375781 2083 b07cdc1033c3d823153697ef13a406e5 ""
-  "LIVRO.toc" 1573163681 3707 06da8a0ebfce51519c06580cd4d61ed2 ""
-  "ORIGINAIS.tex" 1573163586 459811 775958523b91cdf47a0b22de1a006dee ""
+  "LIVRO.toc" 1573246357 3707 7a9b0e901ed632f2493c565863fab8cd ""
+  "ORIGINAIS.tex" 1573246275 462496 26f5c2769e1dd409cd69eff3e4110da5 ""
   "PRETAS.tex" 1572884505 261 af99a4a1473bb8aed00272685f559887 ""
   "fichatecnica.sty" 1573153424 2322 e443f00accd3e216c1a24217939fe779 ""
   "fronthedra.tex" 1573162673 6693 9334d7e24079c25cb0e1353659ce5dde ""
@@ -244,8 +244,8 @@
   "logos.pdf" 1572371253 214956 0a73cf40d825a0f348cd1fcbac76600d ""
   "tipografia.sty" 1568741938 9907 baf9582d169519b5dcad3d86821ad837 ""
   (generated)
-  "LIVRO.log"
-  "INPUTS.aux"
   "LIVRO.aux"
   "LIVRO.toc"
   "LIVRO.pdf"
+  "INPUTS.aux"
+  "LIVRO.log"
