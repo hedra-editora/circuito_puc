@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  8 NOV 2019 17:52
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  25 NOV 2019 18:33
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1738,8 +1738,8 @@ eO(0)/m/n/10.95 ,
  []
 
 
-Underfull \hbox (badness 4316) in paragraph at lines 27--27
-[]|\TU/LinuxLibertineO(0)/m/n/10.95 Aqui É O Fim Do Mundo: Can-deias, Coni Cam
+Underfull \hbox (badness 6893) in paragraph at lines 27--27
+[]|\TU/LinuxLibertineO(0)/m/n/10.95 Aqui é o fim do mundo: Can-deias, Coni Cam
 -pos, 1967, 
  []
 
@@ -1750,14 +1750,14 @@ Underfull \hbox (badness 2293) in paragraph at lines 53--53
  []
 
 
-Underfull \hbox (badness 2735) in paragraph at lines 56--56
-[]|\TU/LinuxLibertineO(0)/m/n/10.95 Re-a-lismo, Anti-Realismo e Meta-Realismo e
+Underfull \hbox (badness 6252) in paragraph at lines 56--56
+[]|\TU/LinuxLibertineO(0)/m/n/10.95 Re-a-lismo, anti-realismo e meta-realismo e
 m Glau-ber Ro-cha, 
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 57--57
-[]|\TU/LinuxLibertineO(0)/m/n/10.95 ``Po-pau Bra-sil'': Pop, re-a-lismo e sub-d
+Underfull \hbox (badness 1163) in paragraph at lines 57--57
+[]|\TU/LinuxLibertineO(0)/m/n/10.95 ``Po-pau Bra-sil'': pop, re-a-lismo e sub-d
 e-sen-vol-vi-mento em 1967, 
  []
 
@@ -1939,7 +1939,11 @@ Overfull \vbox (2.24898pt too high) has occurred while \output is active []
 
 [151] [152] [153
 
-] [154] [155]
+]
+Overfull \vbox (14.24898pt too high) has occurred while \output is active []
+
+
+[154] [155]
 Overfull \vbox (2.24898pt too high) has occurred while \output is active []
 
 
@@ -2124,10 +2128,10 @@ Here is how much of LuaTeX's memory you used:
  5236 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 241 glue, 1 penalty, 972 attribute, 195 glue_spec, 
 243 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:3,2:981,3:146,4:54,5:487,6:5619,7:1770,8:86,9:253,10:29,11:688
+   avail lists: 1:3,2:981,3:145,4:54,5:487,6:5620,7:1770,8:86,9:252,10:29,11:688
 
  27239 multiletter control sequences out of 65536+600000
- 120 fonts using 23918647 bytes
+ 120 fonts using 23918727 bytes
  50i,12n,70p,1356b,497s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/share/texmf
 -dist/fonts/opentype/public/libertine/LinLibertine_RB.otf></usr/share/texmf-dist
@@ -2137,7 +2141,7 @@ type/public/lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/arkandis/a
 dforn/OrnementsADF.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
 i10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb
 >
-Output written on LIVRO.pdf (258 pages, 1279939 bytes).
+Output written on LIVRO.pdf (258 pages, 1280569 bytes).
 
 PDF statistics: 860 PDF objects out of 1000 (max. 8388607)
  575 compressed objects within 6 object streams

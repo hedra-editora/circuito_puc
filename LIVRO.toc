@@ -24,7 +24,7 @@
 \contentsline {section}{1967, voltando atrás para ir às raízes: o~estado~de~invenção}{102}
 \contentsline {section}{Mora na filosofia}{107}
 \contentsline {section}{Referências}{112}
-\contentsline {chapter}{Aqui É O Fim Do Mundo: Candeias, Coni Campos,~1967,\penalty -\@M \emph {por Juliano Gomes}}{115}
+\contentsline {chapter}{Aqui é o fim do mundo: Candeias, Coni Campos,~1967,\penalty -\@M \emph {por Juliano Gomes}}{115}
 \contentsline {section}{0}{115}
 \contentsline {section}{1}{117}
 \contentsline {section}{2}{120}
@@ -34,10 +34,10 @@
 \contentsline {section}{Referências}{126}
 \contentsline {chapter}{Brasil por multiplicação, \emph {por Luiz Camillo Osorio}}{127}
 \contentsline {chapter}{A hora e a vez do sendo, \emph {por Marcia Sá Cavalcante Schuback}}{143}
-\contentsline {chapter}{1967 -- Meio século depois (23/11/17), \emph {por Marília Rothier Cardoso}}{153}
+\contentsline {chapter}{1967: meio século depois (23/11/17), \emph {por Marília Rothier Cardoso}}{153}
 \contentsline {section}{DE MANIFESTOS E DE MARGENS}{153}
 \contentsline {section}{Referências}{164}
-\contentsline {chapter}{Uma Arte Subdesenvolvida, \emph {por Moacir dos Anjos}}{165}
+\contentsline {chapter}{Uma arte subdesenvolvida, \emph {por Moacir dos Anjos}}{165}
 \contentsline {section}{Subdesenvolvimento como condição}{165}
 \contentsline {section}{Uma vanguarda subdesenvolvida}{170}
 \contentsline {section}{Uma estética da fome}{173}
@@ -53,6 +53,6 @@
 \contentsline {chapter}{Eles sabem o dia de amanhã, mas eu quero seguir vivendo,\penalty -\@M \emph {por Pedro Duarte}}{203}
 \contentsline {chapter}{A \textsc {\MakeTextLowercase {TV}} brasileira e a \emph {barbárie tecnizada}, \emph {por Regina Mota}}{217}
 \contentsline {section}{Referências}{225}
-\contentsline {chapter}{Realismo, Anti-Realismo e Meta-Realismo em Glauber Rocha,\penalty -\@M \emph {por Rodrigo Nunes}}{227}
-\contentsline {chapter}{``Popau Brasil'': Pop, realismo e subdesenvolvimento em 1967,\penalty -\@M \emph {por Sérgio Bruno Martins}}{243}
+\contentsline {chapter}{Realismo, anti-realismo e meta-realismo em Glauber Rocha,\penalty -\@M \emph {por Rodrigo Nunes}}{227}
+\contentsline {chapter}{``Popau Brasil'': pop, realismo e subdesenvolvimento em 1967,\penalty -\@M \emph {por Sérgio Bruno Martins}}{243}
 \contentsfinish 
