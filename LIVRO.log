@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  26 NOV 2019 16:32
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  27 NOV 2019 18:23
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.257 seconds
+luaotfload | main : initialization completed in 0.276 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1937,7 +1937,11 @@ Overfull \vbox (9.57407pt too high) has occurred while \output is active []
 Overfull \vbox (2.24898pt too high) has occurred while \output is active []
 
 
-[151] [152] [153
+[151] [152]
+Overfull \vbox (7.54015pt too high) has occurred while \output is active []
+
+
+[153
 
 ]
 Overfull \vbox (14.24898pt too high) has occurred while \output is active []
@@ -2131,7 +2135,7 @@ Here is how much of LuaTeX's memory you used:
    avail lists: 1:3,2:981,3:145,4:54,5:487,6:5620,7:1770,8:86,9:252,10:29,11:688
 
  27239 multiletter control sequences out of 65536+600000
- 120 fonts using 23918567 bytes
+ 120 fonts using 23918727 bytes
  50i,12n,70p,1356b,497s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/share/texmf
 -dist/fonts/opentype/public/libertine/LinLibertine_RB.otf></usr/share/texmf-dist
@@ -2141,7 +2145,7 @@ type/public/lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/arkandis/a
 dforn/OrnementsADF.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
 i10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb
 >
-Output written on LIVRO.pdf (258 pages, 1280481 bytes).
+Output written on LIVRO.pdf (258 pages, 1280020 bytes).
 
 PDF statistics: 860 PDF objects out of 1000 (max. 8388607)
  575 compressed objects within 6 object streams

@@ -25,12 +25,12 @@
 \contentsline {section}{Mora na filosofia}{107}
 \contentsline {section}{Referências}{112}
 \contentsline {chapter}{Aqui é o fim do mundo: Candeias, Coni Campos,~1967,\penalty -\@M \emph {por Juliano Gomes}}{115}
-\contentsline {section}{0}{115}
-\contentsline {section}{1}{117}
-\contentsline {section}{2}{120}
-\contentsline {section}{3}{123}
-\contentsline {section}{4}{124}
-\contentsline {section}{5}{125}
+\contentsline {section}{I}{115}
+\contentsline {section}{II}{117}
+\contentsline {section}{III}{120}
+\contentsline {section}{VI}{123}
+\contentsline {section}{V}{124}
+\contentsline {section}{VI}{125}
 \contentsline {section}{Referências}{126}
 \contentsline {chapter}{Brasil por multiplicação, \emph {por Luiz Camillo Osorio}}{127}
 \contentsline {chapter}{A hora e a vez do sendo, \emph {por Marcia Sá Cavalcante Schuback}}{143}
