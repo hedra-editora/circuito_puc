@@ -7,6 +7,7 @@
 \contentsline {section}{Arte, fome e cooptação}{31}
 \contentsline {section}{Varguismo e conciliação}{34}
 \contentsline {section}{Os meios do subdesenvolvimento}{38}
+\contentsline {section}{Referências}{41}
 \contentsline {chapter}{Tudo em volta está deserto, \emph {por Eduardo Jardim}}{43}
 \contentsline {chapter}{Identidade em cena, \emph {por Felipe Scovino}}{51}
 \contentsline {section}{Referências}{66}
