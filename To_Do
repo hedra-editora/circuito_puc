@@ -8,6 +8,8 @@ To_Do
 
 + Manter todas as citações (mesmo versos) em quote? Acredito que sem recuo fique menos identificável a distinção do poema
 
++ Nomes de revistas e jornais em itálico.
+
 -----------------------------------------------------------------------------------------------
 
 
@@ -44,3 +46,5 @@ AUTOR. TÍTULO (ITÁLICO). ORG. TRAD. LUGAR: EDITORA, ANO.
 -> ARTIGO: ``TÍTULO''. REVISTA (ITÁLICO), VOL, DATA, PÁGINA.
 
 DOIS AUTORES: &
+
+AUTOR, OP. CIT., P.
