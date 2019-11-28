@@ -10,8 +10,6 @@ To_Do
 
 -----------------------------------------------------------------------------------------------
 
-- variação no padrão de citação em recuo: as poesias em recuo estão com mesmo corpo de letra do texto principal, enquanto as citações a textos acadêmicos possuem recuo e corpo de letra distintos. Achamos ideal padronizar as citações em recuo, senão quanto à tabulação, mas ao menos quanto ao corpo de letra;
-
 
 - notas sobre os autores no rodapé: dois problemas basicamente. Há textos que possuem essas notas de abertura, com breve currículo dos autores e há textos que não as possuem. Ainda os que a possuem não recebem textos padronizados. Há desde parágrafos de 5 linhas até uma linha contendo apenas vínculo institucional.
 
@@ -38,3 +36,11 @@ e. quando dois autores em referência, varia ";" e "&";
 f. em referências como n. 112, quando da repetição de nome de autor, o traço nessa página aparece desacompanhado de ponto. Por exemplo, referência: "      _____________ Tropicália.      "
 
 g. Em outras páginas de referências, como na da p. 68, esse traço contínuo é menor.    _______.
+
+PADRÃO:
+
+AUTOR. TÍTULO (ITÁLICO). ORG. TRAD. LUGAR: EDITORA, ANO.
+
+-> ARTIGO: ``TÍTULO''. REVISTA (ITÁLICO), VOL, DATA, PÁGINA.
+
+DOIS AUTORES: &
