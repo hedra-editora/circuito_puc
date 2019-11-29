@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  28 NOV 2019 18:44
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  29 NOV 2019 18:00
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.304 seconds
+luaotfload | main : initialization completed in 0.239 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1833,7 +1833,11 @@ Overfull \vbox (9.5741pt too high) has occurred while \output is active []
 Overfull \vbox (9.5741pt too high) has occurred while \output is active []
 
 
-[37] [38] [39] [40] [41] [42
+[37] [38]
+Overfull \vbox (2.24898pt too high) has occurred while \output is active []
+
+
+[39] [40] [41] [42
 
 ] [43] [44] [45] [46] [47]
 Overfull \vbox (14.24898pt too high) has occurred while \output is active []
@@ -1972,7 +1976,7 @@ Overfull \vbox (9.5741pt too high) has occurred while \output is active []
 
 
 [160] [161]
-Underfull \hbox (badness 1546) in paragraph at lines 4661--4662
+Underfull \hbox (badness 1546) in paragraph at lines 4671--4672
 []\TU/LinuxLibertineO(0)/m/sc/12 \TU/LinuxLibe
 rtineO(0)/m/n/12 , Celso. \TU/LinuxLibertineO(0)/m/it/12 A in-ven-ção de Hé-
 lio Oi-ti-cica. \TU/LinuxLibertineO(0)/m/n/12 São Paulo:
@@ -2052,14 +2056,14 @@ Overfull \vbox (5.88028pt too high) has occurred while \output is active []
 
 
 [217] [218] [219] [220] [221] [222]
-Underfull \hbox (badness 2213) in paragraph at lines 6410--6412
+Underfull \hbox (badness 2213) in paragraph at lines 6420--6422
 []\TU/LinuxLibertineO(0)/m/sc/12 \TU/LinuxLibertineO(0)
 /m/n/12 , Ma-ria Cân-dida Fer-reira. (2002) \TU/LinuxLibertineO(0)/m/it/12 ``S
 ó me in-te-ressa o
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 6410--6412
+Underfull \hbox (badness 1803) in paragraph at lines 6420--6422
 \TU/LinuxLibertineO(0)/m/it/12 que não é meu'': A an-tro-po-fa-gia de Oswald\
 TU/LinuxLibertineO(0)/m/n/12 . Dis-po-ní-vel em:
  []
@@ -2133,9 +2137,9 @@ AED: lastpage setting LastPage
 Here is how much of LuaTeX's memory you used:
  24282 strings out of 494472
  100000,794899 words of node,token memory allocated
- 5236 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 241 glue, 1 penalty, 972 attribute, 195 glue_spec, 
-243 attribute_list, 3 shape, 2 write nodes
+ 5253 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 242 glue, 1 penalty, 976 attribute, 195 glue_spec, 
+244 attribute_list, 3 shape, 2 write nodes
    avail lists: 1:3,2:981,3:145,4:54,5:488,6:5621,7:1758,8:86,9:252,10:29,11:688
 
  27239 multiletter control sequences out of 65536+600000
@@ -2149,7 +2153,7 @@ type/public/lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/arkandis/a
 dforn/OrnementsADF.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
 i10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb
 >
-Output written on LIVRO.pdf (256 pages, 1282252 bytes).
+Output written on LIVRO.pdf (256 pages, 1282985 bytes).
 
 PDF statistics: 854 PDF objects out of 1000 (max. 8388607)
  571 compressed objects within 6 object streams
