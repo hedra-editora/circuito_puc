@@ -61,4 +61,5 @@
 \contentsline {chapter}{Realismo, anti-realismo e meta-realismo em Glauber Rocha,\penalty -\@M \emph {por Rodrigo Nunes}}{227}
 \contentsline {section}{Referências}{243}
 \contentsline {chapter}{``Popau Brasil'': pop, realismo e subdesenvolvimento em 1967,\penalty -\@M \emph {por Sérgio Bruno Martins}}{245}
+\contentsline {section}{Referências}{259}
 \contentsfinish 
