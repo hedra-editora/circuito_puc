@@ -59,5 +59,6 @@
 \contentsline {chapter}{A \textsc {\MakeTextLowercase {TV}} brasileira e a \emph {barbárie tecnizada}, \emph {por Regina Mota}}{217}
 \contentsline {section}{Referências}{226}
 \contentsline {chapter}{Realismo, anti-realismo e meta-realismo em Glauber Rocha,\penalty -\@M \emph {por Rodrigo Nunes}}{227}
-\contentsline {chapter}{``Popau Brasil'': pop, realismo e subdesenvolvimento em 1967,\penalty -\@M \emph {por Sérgio Bruno Martins}}{243}
+\contentsline {section}{Referências}{243}
+\contentsline {chapter}{``Popau Brasil'': pop, realismo e subdesenvolvimento em 1967,\penalty -\@M \emph {por Sérgio Bruno Martins}}{245}
 \contentsfinish 
