@@ -50,7 +50,7 @@
 \contentsline {section}{Diarréia}{183}
 \contentsline {section}{Merda}{186}
 \contentsline {section}{Referências}{188}
-\contentsline {chapter}{Corpo presente?, \emph {por Paulo da Costa e Sil}}{191}
+\contentsline {chapter}{Corpo presente?, \emph {por Paulo da Costa e Silva}}{191}
 \contentsline {section}{\textsc {\MakeTextLowercase {TV}} e liberação do corpo}{191}
 \contentsline {section}{Tropicalismo e corpo}{195}
 \contentsline {section}{Um paradoxo: o corpo retorna, mas o corpo some}{198}
