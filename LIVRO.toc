@@ -1,4 +1,4 @@
-\select@language {brazilian}
+\babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{A mercadoria enternecida e os índios, \emph {por João Camillo Penna}}{8}
 \contentsline {section}{Referências}{25}
