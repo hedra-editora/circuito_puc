@@ -12,7 +12,7 @@
 \contentsline {chapter}{Identidade em cena, \emph {por Felipe Scovino}}{51}
 \contentsline {section}{Referências}{66}
 \contentsline {chapter}{Tropicalismo: o movimento dos corpos, \emph {por Flávia Cêra}}{67}
-\contentsline {section}{REFERÊNCIAS}{76}
+\contentsline {section}{REFERÊNCIAS}{77}
 \contentsline {chapter}{Balanços da fossa: o caso da \emph {Revista Civilização Brasileira},\penalty -\@M \emph {por Fred Coelho}}{79}
 \contentsline {section}{I}{79}
 \contentsline {section}{II}{80}
@@ -52,7 +52,7 @@
 \contentsline {section}{Referências}{188}
 \contentsline {chapter}{Corpo presente?, \emph {por Paulo da Costa e Silva}}{191}
 \contentsline {section}{\textsc {\MakeTextLowercase {TV}} e liberação do corpo}{191}
-\contentsline {section}{Tropicalismo e corpo}{195}
+\contentsline {section}{Tropicalismo e corpo}{196}
 \contentsline {section}{Um paradoxo: o corpo retorna, mas o corpo some}{198}
 \contentsline {section}{Referências}{202}
 \contentsline {chapter}{Eles sabem o dia de amanhã, mas eu quero seguir vivendo,\penalty -\@M \emph {por Pedro Duarte}}{203}
