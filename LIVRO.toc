@@ -13,7 +13,7 @@
 \contentsline {section}{Referências}{66}
 \contentsline {chapter}{Tropicalismo: o movimento dos corpos, \emph {por Flávia Cêra}}{67}
 \contentsline {section}{REFERÊNCIAS}{77}
-\contentsline {chapter}{Balanços da fossa: o caso da \emph {Revista Civilização Brasileira},\penalty -\@M \emph {por Fred Coelho}}{79}
+\contentsline {chapter}{Balanços da fossa: o caso da \emph {Revista Civilização Brasileira},\\ \emph {por Fred Coelho}}{79}
 \contentsline {section}{I}{79}
 \contentsline {section}{II}{80}
 \contentsline {section}{III}{83}
@@ -26,7 +26,7 @@
 \contentsline {section}{1967, voltando atrás para ir às raízes: o~estado~de~invenção}{102}
 \contentsline {section}{Mora na filosofia}{107}
 \contentsline {section}{Referências}{112}
-\contentsline {chapter}{Aqui é o fim do mundo: Candeias, Coni Campos,~1967,\penalty -\@M \emph {por Juliano Gomes}}{113}
+\contentsline {chapter}{Aqui é o fim do mundo: Candeias, Coni Campos,~1967,\\ \emph {por Juliano Gomes}}{113}
 \contentsline {section}{I}{113}
 \contentsline {section}{II}{115}
 \contentsline {section}{III}{118}
@@ -55,11 +55,11 @@
 \contentsline {section}{Tropicalismo e corpo}{196}
 \contentsline {section}{Um paradoxo: o corpo retorna, mas o corpo some}{198}
 \contentsline {section}{Referências}{202}
-\contentsline {chapter}{Eles sabem o dia de amanhã, mas eu quero seguir vivendo,\penalty -\@M \emph {por Pedro Duarte}}{203}
+\contentsline {chapter}{Eles sabem o dia de amanhã, mas eu quero seguir vivendo,\\ \emph {por Pedro Duarte}}{203}
 \contentsline {chapter}{A \textsc {\MakeTextLowercase {TV}} brasileira e a \emph {barbárie tecnizada}, \emph {por Regina Mota}}{217}
 \contentsline {section}{Referências}{226}
-\contentsline {chapter}{Realismo, anti-realismo e meta-realismo em Glauber Rocha,\penalty -\@M \emph {por Rodrigo Nunes}}{227}
+\contentsline {chapter}{Realismo, anti-realismo e meta-realismo em Glauber Rocha,\\ \emph {por Rodrigo Nunes}}{227}
 \contentsline {section}{Referências}{243}
-\contentsline {chapter}{``Popau Brasil'': pop, realismo e subdesenvolvimento em 1967,\penalty -\@M \emph {por Sérgio Bruno Martins}}{245}
+\contentsline {chapter}{``Popau Brasil'': pop, realismo e subdesenvolvimento em 1967,\\ \emph {por Sérgio Bruno Martins}}{245}
 \contentsline {section}{Referências}{259}
 \contentsfinish 
