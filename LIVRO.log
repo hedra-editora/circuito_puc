@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  26 FEB 2020 16:10
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  2 MAR 2020 12:42
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.105 seconds
+luaotfload | main : initialization completed in 0.083 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1824,7 +1824,7 @@ Overfull \vbox (6.97711pt too high) has occurred while \output is active []
 
 
 [52]
-Underfull \hbox (badness 3601) in paragraph at lines 1362--1367
+Underfull \hbox (badness 3601) in paragraph at lines 1364--1369
 []\TU/LinuxLibertineO(0)/m/n/10.95 […] Pe-que-nos pro-pri-e-tá-rios, boias-f
 rias, pes-ca-do-res, de-sem-pre-ga-dos,
  []
@@ -1985,7 +1985,7 @@ Overfull \vbox (4.89919pt too high) has occurred while \output is active []
 
 
 [164] [165]
-Underfull \hbox (badness 1546) in paragraph at lines 4718--4719
+Underfull \hbox (badness 1546) in paragraph at lines 4720--4721
 []\TU/LinuxLibertineO(0)/m/sc/12 \TU/LinuxLibe
 rtineO(0)/m/n/12 , Celso. \TU/LinuxLibertineO(0)/m/it/12 A in-ven-ção de Hé-
 lio Oi-ti-cica. \TU/LinuxLibertineO(0)/m/n/12 São Paulo:
@@ -2073,13 +2073,13 @@ Overfull \vbox (14.24898pt too high) has occurred while \output is active []
 
 
 [228] [229]
-Underfull \hbox (badness 1205) in paragraph at lines 6534--6536
+Underfull \hbox (badness 1205) in paragraph at lines 6536--6538
 []\TU/LinuxLibertineO(0)/m/sc/12 \TU/LinuxLibertineO(0)
 /m/n/12 , Ma-ria Cân-dida Fer-reira. (2002) ``‘Só me in-te-ressa o
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 6534--6536
+Underfull \hbox (badness 1132) in paragraph at lines 6536--6538
 \TU/LinuxLibertineO(0)/m/n/12 que não é meu’: a an-tro-po-fa-gia de Oswald'
 '. Dis-po-ní-vel em:
  []
@@ -2120,18 +2120,15 @@ Overfull \vbox (1.1601pt too high) has occurred while \output is active []
 
 [245] [246] [247] [248
 
-] [249]
-Overfull \vbox (13.26724pt too high) has occurred while \output is active []
+] [249] [250]
+Overfull \vbox (0.2243pt too high) has occurred while \output is active []
 
 
-[250] [251]
-Overfull \vbox (5.327pt too high) has occurred while \output is active []
-
- [252]
-Overfull \vbox (12.22424pt too high) has occurred while \output is active []
+[251]
+Overfull \vbox (6.33504pt too high) has occurred while \output is active []
 
 
-[253] [254]
+[252] [253] [254]
 Overfull \vbox (2.24898pt too high) has occurred while \output is active []
 
 
@@ -2140,14 +2137,10 @@ Overfull \vbox (14.24898pt too high) has occurred while \output is active []
 
 
 [256] [257] [258] [259]
-Overfull \vbox (10.12738pt too high) has occurred while \output is active []
+Overfull \vbox (6.91527pt too high) has occurred while \output is active []
 
 
-[260]
-Overfull \vbox (14.24898pt too high) has occurred while \output is active []
-
-
-[261] [262])) [263] 
+[260] [261] [262])) [263] 
 AED: lastpage setting LastPage
 [264
 
@@ -2164,14 +2157,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Here is how much of LuaTeX's memory you used:
  24649 strings out of 494480
- 2842824,794899 words of node,token memory allocated
- 2511849 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 258 glue, 1 penalty, 401109 glyph, 43830 attribute,
- 195 glue_spec, 7305 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:5,2:1040,3:146,4:52,5:494,6:1641,7:1845,8:86,9:256,10:30,11:70
+ 2842788,794899 words of node,token memory allocated
+ 2504546 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 259 glue, 1 penalty, 399879 glyph, 43860 attribute,
+ 195 glue_spec, 7310 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:5,2:1040,3:147,4:52,5:494,6:2251,7:1844,8:86,9:256,10:30,11:70
 1
  27609 multiletter control sequences out of 65536+600000
- 120 fonts using 23918567 bytes
+ 120 fonts using 23918407 bytes
  50i,12n,69p,2719b,486s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf></usr/
@@ -2181,7 +2174,7 @@ sr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf><
 e/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (264 pages, 1312155 bytes).
+Output written on LIVRO.pdf (264 pages, 1312576 bytes).
 
 PDF statistics: 879 PDF objects out of 1000 (max. 8388607)
  588 compressed objects within 6 object streams
