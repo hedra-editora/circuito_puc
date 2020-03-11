@@ -56,6 +56,7 @@
 \contentsline {section}{Um paradoxo: o corpo retorna, mas o corpo some}{202}
 \contentsline {section}{Referências}{206}
 \contentsline {chapter}{Eles sabem o dia de amanhã, mas eu quero seguir vivendo,\\ \emph {por Pedro Duarte}}{207}
+\contentsline {section}{Referências}{220}
 \contentsline {chapter}{A \textsc {\MakeTextLowercase {TV}} brasileira e a \emph {barbárie tecnizada}, \emph {por Regina Mota}}{221}
 \contentsline {section}{Referências}{230}
 \contentsline {chapter}{Realismo, anti-realismo e meta-realismo em Glauber Rocha,\\ \emph {por Rodrigo Nunes}}{231}
