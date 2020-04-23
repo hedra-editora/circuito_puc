@@ -1,66 +1,66 @@
 \babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{A mercadoria enternecida e os índios, \emph {por João Camillo Penna}}{8}
-\contentsline {section}{Referências}{25}
-\contentsline {chapter}{Exumando o subdesenvolvimento, \emph {por Diego Viana}}{27}
-\contentsline {section}{Política e estética}{29}
-\contentsline {section}{Arte, fome e cooptação}{31}
-\contentsline {section}{Varguismo e conciliação}{34}
-\contentsline {section}{Os meios do subdesenvolvimento}{38}
-\contentsline {section}{Referências}{41}
-\contentsline {chapter}{Tudo em volta está deserto, \emph {por Eduardo Jardim}}{43}
-\contentsline {chapter}{Povo em cena, \emph {por Felipe Scovino}}{51}
-\contentsline {section}{Referências}{68}
-\contentsline {chapter}{Tropicalismo: o movimento dos corpos, \emph {por Flávia Cêra}}{71}
-\contentsline {section}{REFERÊNCIAS}{81}
-\contentsline {chapter}{Balanços da fossa: o caso da \emph {Revista Civilização Brasileira},\\ \emph {por Frederico Coelho}}{83}
-\contentsline {section}{I}{83}
-\contentsline {section}{II}{84}
-\contentsline {section}{III}{87}
-\contentsline {section}{IV}{90}
-\contentsline {section}{V}{93}
-\contentsline {section}{Referências}{95}
-\contentsline {chapter}{1967: exercícios experimentais de liberdade, \emph {por Imaculada Kangussu}}{97}
-\contentsline {section}{1967, ano da \emph {Tropicália}}{97}
-\contentsline {section}{1967, ano do supra"-sensorial}{102}
-\contentsline {section}{1967, voltando atrás para ir às raízes: o~estado~de~invenção}{106}
-\contentsline {section}{Mora na filosofia}{111}
-\contentsline {section}{Referências}{116}
-\contentsline {chapter}{Aqui é o fim do mundo: Candeias, Coni Campos,~1967,\\ \emph {por Juliano Gomes}}{117}
-\contentsline {section}{I}{117}
-\contentsline {section}{II}{119}
-\contentsline {section}{III}{122}
-\contentsline {section}{VI}{125}
-\contentsline {section}{V}{126}
+\contentsline {section}{Referências}{27}
+\contentsline {chapter}{Exumando o subdesenvolvimento, \emph {por Diego Viana}}{29}
+\contentsline {section}{Política e estética}{31}
+\contentsline {section}{Arte, fome e cooptação}{33}
+\contentsline {section}{Varguismo e conciliação}{36}
+\contentsline {section}{Os meios do subdesenvolvimento}{40}
+\contentsline {section}{Referências}{43}
+\contentsline {chapter}{Tudo em volta está deserto, \emph {por Eduardo Jardim}}{45}
+\contentsline {chapter}{Povo em cena, \emph {por Felipe Scovino}}{53}
+\contentsline {section}{Referências}{70}
+\contentsline {chapter}{Tropicalismo: o movimento dos corpos, \emph {por Flávia Cêra}}{73}
+\contentsline {section}{REFERÊNCIAS}{83}
+\contentsline {chapter}{Balanços da fossa: o caso da \emph {Revista Civilização Brasileira},\\ \emph {por Frederico Coelho}}{85}
+\contentsline {section}{I}{85}
+\contentsline {section}{II}{86}
+\contentsline {section}{III}{89}
+\contentsline {section}{IV}{92}
+\contentsline {section}{V}{95}
+\contentsline {section}{Referências}{97}
+\contentsline {chapter}{1967: exercícios experimentais de liberdade, \emph {por Imaculada Kangussu}}{99}
+\contentsline {section}{1967, ano da \emph {Tropicália}}{99}
+\contentsline {section}{1967, ano do supra"-sensorial}{104}
+\contentsline {section}{1967, voltando atrás para ir às raízes: o~estado~de~invenção}{108}
+\contentsline {section}{Mora na filosofia}{113}
+\contentsline {section}{Referências}{118}
+\contentsline {chapter}{Aqui é o fim do mundo: Candeias, Coni Campos,~1967,\\ \emph {por Juliano Gomes}}{119}
+\contentsline {section}{I}{119}
+\contentsline {section}{II}{121}
+\contentsline {section}{III}{124}
 \contentsline {section}{VI}{127}
-\contentsline {section}{Referências}{128}
-\contentsline {chapter}{Brasil por multiplicação, \emph {por Luiz Camillo Osorio}}{129}
-\contentsline {section}{Referências}{144}
-\contentsline {chapter}{A hora e a vez do sendo, \emph {por Marcia Sá Cavalcante Schuback}}{145}
-\contentsline {chapter}{1967: meio século depois (23/11/17), \emph {por Marília Rothier Cardoso}}{155}
-\contentsline {section}{DE MANIFESTOS E DE MARGENS}{155}
-\contentsline {section}{Referências}{166}
-\contentsline {chapter}{Uma arte subdesenvolvida, \emph {por Moacir dos Anjos}}{167}
-\contentsline {section}{Subdesenvolvimento como condição}{167}
-\contentsline {section}{Uma vanguarda subdesenvolvida}{172}
-\contentsline {section}{Uma estética da fome}{175}
-\contentsline {section}{Estamos com fome}{179}
-\contentsline {section}{Uma criança sorridente, feia e morta}{183}
-\contentsline {section}{Antropofagia do faminto}{185}
-\contentsline {section}{Diarréia}{187}
-\contentsline {section}{Merda}{190}
-\contentsline {section}{Referências}{192}
-\contentsline {chapter}{Corpo presente?, \emph {por Paulo da Costa e Silva}}{195}
-\contentsline {section}{\textsc {\MakeTextLowercase {TV}} e liberação do corpo}{195}
-\contentsline {section}{Tropicalismo e corpo}{200}
-\contentsline {section}{Um paradoxo: o corpo retorna, mas o corpo some}{202}
-\contentsline {section}{Referências}{206}
-\contentsline {chapter}{Eles sabem o dia de amanhã, mas eu quero seguir vivendo,\\ \emph {por Pedro Duarte}}{207}
-\contentsline {section}{Referências}{220}
-\contentsline {chapter}{A \textsc {\MakeTextLowercase {TV}} brasileira e a \emph {barbárie tecnizada}, \emph {por Regina Mota}}{221}
-\contentsline {section}{Referências}{230}
-\contentsline {chapter}{Realismo, anti-realismo e meta-realismo em Glauber Rocha,\\ \emph {por Rodrigo Nunes}}{231}
-\contentsline {section}{Referências}{247}
-\contentsline {chapter}{``Popau Brasil'': pop, realismo e subdesenvolvimento em 1967,\\ \emph {por Sérgio Bruno Martins}}{249}
-\contentsline {section}{Referências}{263}
+\contentsline {section}{V}{128}
+\contentsline {section}{VI}{129}
+\contentsline {section}{Referências}{130}
+\contentsline {chapter}{Brasil por multiplicação, \emph {por Luiz Camillo Osorio}}{131}
+\contentsline {section}{Referências}{146}
+\contentsline {chapter}{A hora e a vez do sendo, \emph {por Marcia Sá Cavalcante Schuback}}{147}
+\contentsline {chapter}{1967: meio século depois (23/11/17), \emph {por Marília Rothier Cardoso}}{157}
+\contentsline {section}{DE MANIFESTOS E DE MARGENS}{157}
+\contentsline {section}{Referências}{168}
+\contentsline {chapter}{Uma arte subdesenvolvida, \emph {por Moacir dos Anjos}}{169}
+\contentsline {section}{Subdesenvolvimento como condição}{169}
+\contentsline {section}{Uma vanguarda subdesenvolvida}{174}
+\contentsline {section}{Uma estética da fome}{177}
+\contentsline {section}{Estamos com fome}{181}
+\contentsline {section}{Uma criança sorridente, feia e morta}{185}
+\contentsline {section}{Antropofagia do faminto}{187}
+\contentsline {section}{Diarréia}{189}
+\contentsline {section}{Merda}{192}
+\contentsline {section}{Referências}{194}
+\contentsline {chapter}{Corpo presente?, \emph {por Paulo da Costa e Silva}}{197}
+\contentsline {section}{\textsc {\MakeTextLowercase {TV}} e liberação do corpo}{197}
+\contentsline {section}{Tropicalismo e corpo}{202}
+\contentsline {section}{Um paradoxo: o corpo retorna, mas o corpo some}{204}
+\contentsline {section}{Referências}{208}
+\contentsline {chapter}{Eles sabem o dia de amanhã, mas eu quero seguir vivendo,\\ \emph {por Pedro Duarte}}{209}
+\contentsline {section}{Referências}{222}
+\contentsline {chapter}{A \textsc {\MakeTextLowercase {TV}} brasileira e a \emph {barbárie tecnizada}, \emph {por Regina Mota}}{223}
+\contentsline {section}{Referências}{232}
+\contentsline {chapter}{Realismo, anti-realismo e meta-realismo em Glauber Rocha,\\ \emph {por Rodrigo Nunes}}{233}
+\contentsline {section}{Referências}{249}
+\contentsline {chapter}{``Popau Brasil'': pop, realismo e subdesenvolvimento em 1967,\\ \emph {por Sérgio Bruno Martins}}{251}
+\contentsline {section}{Referências}{265}
 \contentsfinish 

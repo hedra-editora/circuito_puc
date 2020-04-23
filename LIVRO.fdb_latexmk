@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1583951718 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1583951726
+["pdflatex"] 1587673688 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1587673695
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc" 1568389827 330559 8015d189746fd34549af425155e1e6e6 ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc" 1568389827 287959 d5887f4d1b939889089730c9a54a54da ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rbi.luc" 1568389827 219520 6fa7a4848f8db3261ce34a95f9e81fd5 ""
@@ -224,12 +224,12 @@
   "/usr/share/texlive/texmf-dist/tex/plain/ifetex/ifetex.tex" 1480098846 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/tex/generic/config/language.dat" 1568390393 5068 f7f3bc7f417c156a3f8ad000ec95e50f ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1568390407 1349090 037f174be86cf28c8ddf3a93c1b55c78 ""
-  "INPUTS.aux" 1583951726 6841 65881888f81d38a97a50ebab927a38e7 ""
+  "INPUTS.aux" 1587673695 6841 ee2069f53a169a395d31ded4905f7a1e ""
   "INPUTS.tex" 1576257481 90 f718c76d4a785500f401f76cdba57cd5 ""
-  "LIVRO.aux" 1583951726 373 05ffd826c80e2f248ec59126ec512166 ""
+  "LIVRO.aux" 1587673695 373 1807f44bbab73f56fe1219f3aeb5b042 ""
   "LIVRO.tex" 1576257481 2111 0d0451c8591797d86a425f07f3927d2a ""
-  "LIVRO.toc" 1583951726 3995 62d46db65c8fb38ed376897997dc9ca9 ""
-  "ORIGINAIS.tex" 1583951695 484705 cde4c6bf182d7cc15b43fa488eb9b899 ""
+  "LIVRO.toc" 1587673695 3995 5a620e5f7ee82a8e8fc968070ef0b8a8 ""
+  "ORIGINAIS.tex" 1587673641 490198 e956525b0bd5d74ee8e9da931f66d579 ""
   "PRETAS.tex" 1582740612 5008 cb567e28566eff38b50755fd1cc31bc1 ""
   "fichatecnica.sty" 1582743329 2322 47f6012a1c5a301cb1d440d03b10cef9 ""
   "fronthedra.tex" 1583164245 6852 abdf21df05176a673efd4a495a4cc513 ""
@@ -241,8 +241,8 @@
   "logos.pdf" 1576257481 214956 0a73cf40d825a0f348cd1fcbac76600d ""
   "tipografia.sty" 1576257481 9907 baf9582d169519b5dcad3d86821ad837 ""
   (generated)
-  "LIVRO.aux"
   "INPUTS.aux"
   "LIVRO.log"
   "LIVRO.toc"
   "LIVRO.pdf"
+  "LIVRO.aux"
