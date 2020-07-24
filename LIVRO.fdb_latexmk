@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1592243641 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1592243649
+["pdflatex"] 1595616307 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1595616314
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc" 1568389827 330559 8015d189746fd34549af425155e1e6e6 ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc" 1568389827 287959 d5887f4d1b939889089730c9a54a54da ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rbi.luc" 1568389827 219520 6fa7a4848f8db3261ce34a95f9e81fd5 ""
@@ -223,13 +223,13 @@
   "/usr/share/texlive/texmf-dist/tex/plain/ifetex/ifetex.tex" 1480098846 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/tex/generic/config/language.dat" 1568390393 5068 f7f3bc7f417c156a3f8ad000ec95e50f ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1568390407 1349090 037f174be86cf28c8ddf3a93c1b55c78 ""
-  "INPUTS.aux" 1592243648 7008 468924329017edcab6081fd308432b44 ""
+  "INPUTS.aux" 1595616314 6093 5ac0651eabdad00802539f327e4c3d29 ""
   "INPUTS.tex" 1576257481 90 f718c76d4a785500f401f76cdba57cd5 ""
-  "LIVRO.aux" 1592243648 311 9b53fe43429d03697b845b8e632e3c7e ""
-  "LIVRO.tex" 1591816319 2111 0d0451c8591797d86a425f07f3927d2a ""
-  "LIVRO.toc" 1592243648 4027 5274039183b1681a5e62e97839a717ee ""
-  "ORIGINAIS.tex" 1592243627 494317 3828ee7c30368b052067c88fd36914a8 ""
-  "fichatecnica.sty" 1590596454 2334 8c227a81c59e0a40b1e80b5e9447aa4f ""
+  "LIVRO.aux" 1595616314 311 53c2fe2c5e88e66953f6d7846e1e4883 ""
+  "LIVRO.tex" 1595613890 2101 9373f85e6b43211559f91a211fc7da79 ""
+  "LIVRO.toc" 1595616314 3383 5dbe8034fb55ad2cfdd0ce7368a1db83 ""
+  "ORIGINAIS.tex" 1595616305 494905 7414fbaf0ee935dfd58a29846951652a ""
+  "fichatecnica.sty" 1595613796 2340 850822e534ac426c18bb0d07ff0dacf1 ""
   "fronthedra.tex" 1591817622 6916 0f291151ba4521ca7d9a6c74228f9321 ""
   "gitrevisioninfo.sty" 1576257481 35 ed5e95f7cfbdcef7566b00502d87bd4d ""
   "hedraextra.sty" 1576257481 6390 65a9b8588c7612c4e2512564697fa8c1 ""
@@ -240,8 +240,8 @@
   "logos.pdf" 1576257481 214956 0a73cf40d825a0f348cd1fcbac76600d ""
   "tipografia.sty" 1591811869 9961 48aec1860dff9ac7ef9ed5a18bbaaf44 ""
   (generated)
-  "LIVRO.toc"
-  "LIVRO.log"
   "LIVRO.aux"
-  "LIVRO.pdf"
+  "LIVRO.log"
+  "LIVRO.toc"
   "INPUTS.aux"
+  "LIVRO.pdf"

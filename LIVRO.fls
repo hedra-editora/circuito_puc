@@ -1,4 +1,4 @@
-PWD /home/edlab/HEDRA/LATEX/circuito_puc
+PWD /home/edlab/HEDRA/LATEX/OLD/circuito_puc
 INPUT /var/lib/texmf/web2c/luatex/lualatex.fmt
 INPUT ./LIVRO.tex
 OUTPUT LIVRO.log
